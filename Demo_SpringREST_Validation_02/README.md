@@ -1,2 +1,2 @@
 # Path Variable validation
-Simple Customer database app with validations in the API layer
+Simple Customer database app with @PathVariable validations in the API layer
